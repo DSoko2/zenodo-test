@@ -1,0 +1,16 @@
+{
+    "license": "Apache-2.0", 
+    "upload_type": "software", 
+    "creators": [
+        {
+            "affiliation": "Technical University of Darmstadt", 
+            "name": "Sokolowski, Daniel",
+            "orcid": "0000-0003-2911-8304"
+        },
+	{
+            "name": "Tester, Max"
+	}
+    ],
+    "access_right": "open",
+    "language": "eng"
+}
